@@ -1,0 +1,2 @@
+# hegy4
+Hylleberg-Engle-Granger-Yoo (HEGY) Seasonal unit root test for quarterly data Use hegy4 With STATA 19
