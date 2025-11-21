@@ -1,6 +1,8 @@
 # hegy4
 Hylleberg-Engle-Granger-Yoo (HEGY) Seasonal unit root test for quarterly data Use hegy4 With STATA 19
 
+https://www.youtube.com/watch?v=G9QNUxPC7sI
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
